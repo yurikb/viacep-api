@@ -14,4 +14,4 @@ export class ViaCepModel {
         Object.assign(this, object);
     }
 
-}
+} 

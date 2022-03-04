@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  urlApiViaCep: 'https://viacep.com.br/ws/'
 };
